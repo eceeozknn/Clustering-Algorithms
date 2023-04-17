@@ -1,2 +1,2 @@
-# Clustering-Algorithms
-This repository contains descriptions and applications of various clustering algorithms.
+# Clustering Algorithms
+**This repository will contain descriptions and applications of various clustering algorithms.**
